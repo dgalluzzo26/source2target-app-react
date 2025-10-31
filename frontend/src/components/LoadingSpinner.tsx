@@ -15,3 +15,4 @@ const LoadingSpinner: React.FC<LoadingSpinnerProps> = ({ size = 'medium', messag
 };
 
 export default LoadingSpinner;
+

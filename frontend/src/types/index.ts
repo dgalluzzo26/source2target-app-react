@@ -88,3 +88,4 @@ export interface AppConfig {
     admin_password_hash: string;
   };
 }
+
