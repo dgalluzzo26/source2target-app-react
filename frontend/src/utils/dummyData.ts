@@ -3,9 +3,9 @@ import { SourceColumn, MappedField, SemanticRecord, AIMapping, TemplateRow, User
 // Dummy user data
 export const dummyUser: User = {
   email: 'demo.user@gainwell.com',
-  display_name: 'Demo User',
-  role: 'platform_user',
-  is_admin: false,
+  display_name: 'Demo User (Admin)',
+  role: 'admin',
+  is_admin: true,
   is_platform_user: true,
 };
 
